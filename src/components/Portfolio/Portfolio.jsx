@@ -11,44 +11,40 @@ const data=[
   {
     id:1,
     image:IMG1,
-    title:"portfolio",
-    github:"https://github.com",
-    demo:'https://github.com'
+    title:"Flight Booking ",
+    github:"https://github.com/Sodinapalli-Karthik/Flight_Booking.git",
   },
   {
     id:2,
     image:IMG2,
-    title:"portfolio",
-    github:"https://github.com",
-    demo:'https://github.com'
+    title:"MetaVerse UI Project",
+    github:"https://github.com/Sodinapalli-Karthik/MetaVerse-Project.git",
   },
   {
     id:3,
     image:IMG3,
-    title:"portfolio",
-    github:"https://github.com",
-    demo:'https://github.com'
+    title:"Portfolio",
+    github:"https://github.com/Sodinapalli-Karthik/Portfolio.git",
+    
   },
   {
     id:4,
     image:IMG4,
     title:"portfolio",
     github:"https://github.com",
-    demo:'https://github.com'
   },
   {
     id:5,
     image:IMG5,
     title:"portfolio",
     github:"https://github.com",
-    demo:'https://github.com'
   },
   {
     id:6,
     image:IMG6,
     title:"portfolio",
     github:"https://github.com",
-    demo:'https://github.com'
+    // demo:'https://github.com'
   }
 ]
 

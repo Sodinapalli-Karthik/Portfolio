@@ -17,7 +17,7 @@ const Contact = () => {
         <h4>
           Email
         </h4>
-        <h5>Email id</h5>
+        <h5>sodinapallisaikarthik@gmail.com</h5>
         <a href="mailto:dummy@gmail.com" target="_blank">Send a Message</a>
        </article>
        <article className="contact_option">
@@ -25,7 +25,7 @@ const Contact = () => {
         <h4>
           Messanger
         </h4>
-        <h5>Email id</h5>
+        <h5>message</h5>
         <a href="https://m.me/ernest.achiever" target="_blank">Send a Message</a>
        </article>
        <article className="contact_option">
@@ -33,7 +33,7 @@ const Contact = () => {
         <h4>
           Whatsapp
         </h4>
-        <h5>Email id</h5>
+        <h5>9573240137</h5>
         <a href="https://api.whatsapp.com/send?phone=9573240137" target="_blank">Send a Message</a>
        </article>
       </div>
